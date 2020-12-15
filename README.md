@@ -1,5 +1,5 @@
 # CrystalClimb
-Tower Climbing Game made with Unity.
-https://cerwin.itch.io/crystal-climb
-Co creater https://github.com/alpergkcan
-Co creater https://github.com/ardayildirim
+Tower Climbing Game made with Unity.\n
+https://cerwin.itch.io/crystal-climb \n
+Co creater https://github.com/alpergkcan \n
+Co creater https://github.com/ardayildirim \n
