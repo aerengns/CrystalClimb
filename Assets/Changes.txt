@@ -1,0 +1,26 @@
+I Have Added 4 New Materials:
+	BrickWall
+	Castle_Wall_Slates
+	StoneWall_2
+	Wooden_Crate
+
+A Tower Model With Less Verticies And Better Texture Tiling(UVs) is Added:
+	wtf_Tower
+
+Blend Files Updated
+
+Scenede Oynama Yapmadım O Yuzden Scenedeki tower eski !!!
+
+
+!!!		Possible Textures For the Tower:
+			Castle_Wall_Slates
+			BrickWall
+
+!!!		Use wtfKule If Possible.
+
+
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+1 More Material with Possible Use for tower:
+	castle_wall_variation
